@@ -1,0 +1,22 @@
+{
+  "name": "design-deai",
+  "description": "Detect AI slop patterns (purple gradients, Inter font fixation, rounded-2xl overuse, glassmorphism, missing Empty/Error states, absent design tokens) in UI source code via static analysis, then generate a DESIGN.md to prevent recurring AI-generated anti-patterns.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Eruto Kondo",
+    "email": "erutobusiness@gmail.com"
+  },
+  "homepage": "https://github.com/eruto-skills/design-deai",
+  "repository": "https://github.com/eruto-skills/design-deai",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-code-skill",
+    "design",
+    "anti-pattern",
+    "ai-slop",
+    "ui",
+    "tailwind",
+    "design-tokens"
+  ]
+}
