@@ -1,3 +1,7 @@
 
 # ローカル評価データ（作者環境のパスを含むため非追跡）
 evals/
+
+node_modules/
+
+__pycache__/
